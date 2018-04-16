@@ -1,1 +1,1 @@
-# circuitbreaker-example
+# Circuit Breaker Pattern Example
